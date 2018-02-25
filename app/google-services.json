@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "963390655118",
+    "firebase_url": "https://hvt2-1519495006532.firebaseio.com",
+    "project_id": "hvt2-1519495006532",
+    "storage_bucket": "hvt2-1519495006532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963390655118:android:7cf3a3cf56352ba7",
+        "android_client_info": {
+          "package_name": "minocha.rishabh.htv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963390655118-9p67h62tcsa1m3gc1juvu7r7djprgvgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYtfmnlfwEEBhe6aQIpimHiIIc-ZET0M4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
