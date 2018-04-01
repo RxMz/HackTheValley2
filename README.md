@@ -1,3 +1,3 @@
 # HackTheValley2
 
-UPDATED NOT RELEASED
+A hackathon project for HacktheValley-2 held in University of Toronto, Scarborough
