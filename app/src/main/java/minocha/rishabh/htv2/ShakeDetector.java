@@ -96,7 +96,7 @@ public class ShakeDetector extends Service implements SensorEventListener {
 
     public boolean onKeyDown(int keyCode, KeyEvent event) {
         if ((keyCode == KeyEvent.KEYCODE_VOLUME_DOWN)){
-            //Do something
+        Toast.makeText(getApplicationContext(),"User is safe",Toast.LENGTH_LONG).show();
         }
         return true;
     }
